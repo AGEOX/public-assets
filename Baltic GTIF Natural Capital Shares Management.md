@@ -1,17 +1,26 @@
-﻿|GTIF Capability|**Natural Capital Shares Management**|
+﻿|GTIF Capability|**Natural Capital Solutions Management**|
 | - | - |
 |Service Owner and Provider(s)|EOX (owner and provider of algorithm), Contacts: Anne Gruböck, Bernadett Csonka; EOX (provider of hosting platform & support in front end), Contacts: Stefan Brand, Daniel Santillan|
-|Abstract Description|Digital Monitoring Reporting and verification (dMRV) tool for assessment of ecosystem services including Carbon Credits for extensively processed grassland|
-|Stakeholder(s)|TBD|
+|Abstract Description|Digital Measurement, Reporting and verification (dMRV) tool for the assessment of ecosystem services of extensive or so called High Nature Value Grassland and the certification and securitisation of these via the Carbon and/or Biodiversity Credit Market|
+|Stakeholder(s)|Landowners/Farmers in Lithuania and Baltics, Agricultural & Food Companies, CSRD-Compliant Organisations in Europe, Financial Institutions, Investment Funds, Insurance Companies, Climate-Tech Companies, Individuals & Small Businesses, Municipalities & NGOs|
 |Point of Contact (POC)|TBD|
-|Expectations|TBD|
-|Input Data|TBD|
+|Expectations|accurate and validated dMRV Services making use of EO and in-situ data, that is scalable and adds to conservation financing for a large number High Nature Value grassland accountable via innovative on-balance sheet solutions for companies and investors (Natural Capital Share), market readiness & credibility with relevant partners, contribution to European 2030 climate and biodiversity goals, data transparency and stakeholder engagement|
+|Input Data|Satellite Imagery (GSA/LPIS-data for agricultural grassland observed by Paying Agencies, both multspectral and potentially also hyperspectral Sentinel-2 and Landsat8 providing data on land cover, vegetation and biomass changes, NDVI vegetation indices, Soil and Moisture Data to understand ecosystem health and potential carbon storage capacity nad further contextualising environmental conditions, In-Situ data Inputs to verify biodiversity indicators by Geo-Tagged Photos and soil carbon samples to verify carbon storage (In-situ data helps calibrate the remote-sensing models to improve the accuracy of EO-derived estimates, especially for biomass, soil carbon, and vegetation indices and can help to develop relevant prediction models in the future)|
 |Pre-processing|TBD|
 |Run-time|TBD|
-|Output Information Product|TBD|
+|Output Information Product|Carbon and Biodiversity Credit Reports, Ecosystem Health and Status Dashboard (Digital Ecosystem Overview and historical and predictive analysis tool), Compliance and Verification Documentation (Verification Audit Trails, Compliance Certificates), Stakeholder Reports (Landowner Reports and input tool, Investor/Buyer Termsheet and Invoice/Contract), High Level Public Environmental Impact Summary, Raw and Processed Data Sets for Research and Analysis for Clients|
 |GTIF legacy|None|
 |Service outlet, API and/or GUI functions|API: openEO (access via subscription, paid); WebUI: interactive dashboard (eodash) – public|
-|Long-term perspective (governance, sustained operations, funding)|Integration into thematic information service of cities|
-|Deviations/ Reservations|None|
-|Potential Problems and Identified Solutions|None|
-
+|Long-term perspective (governance, sustained operations, funding)| 
+1) Develop a governance model that involves all key stakeholders, including landowners, credit buyers, and regulatory bodies. A decentralized or community-led governance framework can increase transparency and accountability. This could also include forming an advisory board with experts in ecology, finance, and data management to ensure adherence to standards. 
+2) Revenue from Credit Sales: Portion of funds from carbon and biodiversity credit sales to support operations and maintenance. 
+3) Public, Philantropic and Green Finance: Access funds from environmental grants or green finance initiatives to support ecosystem services projects. 
+4) Subscription Model: Charge stakeholders (e.g., corporations, investors) for accessing advanced analytics, reporting, or data from the dMRV tool, creating a recurring revenue stream. 
+5) Partnerships with ESG Investment Funds: Engage investment funds interested in impact-focused financial products as potential partners for ongoing support and market expansion.|
+|Deviations/ Reservations| Building up the long-term financial solution of the so-called Natural Capital Share will require a number of developments and credibility-building specifically with the dMRV-Solution that can be applied as PaaS for a number of stakeholders, while Voluntary Carbon credit issuance and biodiversity certification combined with market actors in this field and specifically financial partners to structure the equity solution envisioned|
+|Potential Problems and Identified Solutions| 
+1) Data Reliability and Accuracy: Ensuring high accuracy in measuring and reporting ecosystem services may be challenging due to weather conditions, cloud cover, or sensor failures. Solution: Use a hybrid data collection approach (combining EO with in-situ data) and validate with periodic field assessments to enhance reliability. 
+2) Regulatory Compliance and Market Acceptance: The carbon and biodiversity credit markets are subject to evolving standards and regulations, which may affect credit validity and market demand. Solution: Engage early with regulatory bodies and standard-setting organizations to ensure compliance, and adapt the tool to emerging standards. 
+3) Scaling and Resource Demand: As the project scales, increased demand on data processing and storage could lead to higher operational costs Solution: Implement scalable cloud infrastructure with usage-based pricing and consider data optimization strategies, such as focusing on high-priority areas. 
+4) Stakeholder Engagement and Adoption: Landowners and stakeholders may be hesitant to adopt new technologies due to lack of understanding or trust in the dMRV tool. Solution: Provide training sessions, demonstrations, and transparent reporting to build trust and demonstrate the financial benefits of ecosystem service credits. 
+5) Market Volatility for Credits: Carbon and biodiversity credit markets can be volatile, impacting project income. Solution: Diversify credit offerings by issuing credits that cater to different markets (e.g., carbon offsets, biodiversity offsets) and secure partnerships with organizations with long-term sustainability commitments.|
